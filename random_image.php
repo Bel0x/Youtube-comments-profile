@@ -1,10 +1,10 @@
 <?php
 
 // Set your YouTube Data API key
-$apiKey = 'AIzaSyAXdwauJ5prkk3_V5ErrJ0C7xurCfP5D8s';
+$apiKey = 'YOUR_YOUTUBE_API_KEY';
 
 // YouTube video ID
-$videoId = '9xkEHTqgr7o';
+$videoId = 'YOUR_YOUTUBE_VIDEO_ID';
 
 // YouTube API endpoint
 $apiUrl = 'https://www.googleapis.com/youtube/v3/commentThreads';
