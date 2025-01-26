@@ -12,4 +12,6 @@ To obtain YOUR_YOUTUBE_API_KEY, you can follow these steps:
 10. Replace 'YOUR_YOUTUBE_API_KEY' in your code with the actual API key you obtained.
 11. Don't forget to use this extenstion to zoom and download:
  https://chromewebstore.google.com/detail/hover-zoom+/pccckmaobkjjboncdfnnofkonhgpceea
+
+
 An example of what script can do https://prnt.sc/Dp2yzdyzzIYO
